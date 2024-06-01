@@ -1,5 +1,5 @@
 <template>
   <div>
-    <button></button>
+    <p>Aqui va el formulario de login</p>
   </div>
 </template>
